@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Abdul Samad
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning asp full stack web development, react, api's
+- 🌱 I’m currently learning asp full stack web development, react,typescript, api's react native
 - 💞️ I’m looking to collaborate on backend web app
 - 📫 How to reach me text me whatsapp on this number 055368481
 
