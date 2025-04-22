@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Kabuli
 - 👀 I’m interested in web development 
 - 💞️ I’m looking to collaborate on backend web app
-- 📫 How to reach me text me whatsapp on this number 0553608481
+- 📫 How to reach me text me whatsapp on this number +966553608481
 ## Technologies I use
 ### Front End
 -  Html
