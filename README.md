@@ -42,8 +42,7 @@ I'm a Master's student in **AI Engineering** at **Jönköping University, Sweden
 
 ## 📊 Current Projects
 
-- 🧬 **Smart Mattress AI (Starspring)** — Real-time comfort optimization with embedded sensors.  
-- 📜 **Systematic Literature Review** — Webcam-based eye tracking for reading assessment.  
+- 🧬 **Smart Mattress AI (Starspring)** — Real-time comfort optimization with embedded sensors.   
 - 💳 **Loyalty Wallet SaaS** — Autonomous onboarding and geofenced store notifications.  
 - 🧾 **Receipt-Scanner App** — GCP + Vertex AI + Gemini RAG for smart expense insights.
 
